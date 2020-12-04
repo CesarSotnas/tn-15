@@ -3,3 +3,7 @@ function mostraNome () {
 }
 
 mostraNome();
+
+console.log("Outra Branch");
+
+console.log("Alteração");
